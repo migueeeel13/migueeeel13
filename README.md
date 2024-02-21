@@ -1,5 +1,5 @@
-#🙉 Hi, my name is Miguel. 
-🎓 I am currently studying web development in A Coruña.
+# 💫 About Me:
+📍I am currently studying web development in A Coruña.
 
 
 # 💻 Tech Stack:
